@@ -1,0 +1,308 @@
+[
+    {
+      "question": "What is the capital city of France?",
+      "option1": "London",
+      "option2": "Berlin",
+      "option3": "Paris",
+      "option4": "Rome",
+      "correctOption": 3,
+      "category": "Geography",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Who wrote the play 'Hamlet'?",
+      "option1": "William Shakespeare",
+      "option2": "J.K. Rowling",
+      "option3": "George Orwell",
+      "option4": "Jane Austen",
+      "correctOption": 1,
+      "category": "Literature",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "option1": "Mars",
+      "option2": "Venus",
+      "option3": "Mercury",
+      "option4": "Neptune",
+      "correctOption": 3,
+      "category": "Science",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "In which country is the Great Wall located?",
+      "option1": "China",
+      "option2": "India",
+      "option3": "Japan",
+      "option4": "Brazil",
+      "correctOption": 1,
+      "category": "History",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the chemical symbol for the element 'Carbon'?",
+      "option1": "Ca",
+      "option2": "Co",
+      "option3": "C",
+      "option4": "Cr",
+      "correctOption": 3,
+      "category": "Science",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which famous scientist formulated the theory of relativity?",
+      "option1": "Isaac Newton",
+      "option2": "Galileo Galilei",
+      "option3": "Albert Einstein",
+      "option4": "Nikola Tesla",
+      "correctOption": 3,
+      "category": "Science",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "option1": "Elephant",
+      "option2": "Blue Whale",
+      "option3": "Giraffe",
+      "option4": "Hippopotamus",
+      "correctOption": 2,
+      "category": "Science",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Which country is home to the famous landmark 'Machu Picchu'?",
+      "option1": "Peru",
+      "option2": "Mexico",
+      "option3": "Brazil",
+      "option4": "Argentina",
+      "correctOption": 1,
+      "category": "Geography",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Who painted the 'Starry Night'?",
+      "option1": "Vincent van Gogh",
+      "option2": "Leonardo da Vinci",
+      "option3": "Pablo Picasso",
+      "option4": "Claude Monet",
+      "correctOption": 1,
+      "category": "Art",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Carbon Dioxide",
+      "option3": "Nitrogen",
+      "option4": "Methane",
+      "correctOption": 2,
+      "category": "Science",
+      "difficulty": "Easy"
+    },
+    
+        {
+          "question": "Which famous scientist developed the theory of general relativity?",
+          "option1": "Isaac Newton",
+          "option2": "Galileo Galilei",
+          "option3": "Albert Einstein",
+          "option4": "Nikola Tesla",
+          "correctOption": 3,
+          "category": "Science",
+          "difficulty": "Medium"
+        },
+        {
+          "question": "What is the currency of Japan?",
+          "option1": "Yen",
+          "option2": "Dollar",
+          "option3": "Euro",
+          "option4": "Pound",
+          "correctOption": 1,
+          "category": "Geography",
+          "difficulty": "Easy"
+        },
+        {
+          "question": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+          "option1": "F. Scott Fitzgerald",
+          "option2": "Harper Lee",
+          "option3": "J.D. Salinger",
+          "option4": "George Orwell",
+          "correctOption": 2,
+          "category": "Literature",
+          "difficulty": "Medium"
+        },
+        {
+          "question": "What is the largest organ in the human body?",
+          "option1": "Liver",
+          "option2": "Lungs",
+          "option3": "Skin",
+          "option4": "Heart",
+          "correctOption": 3,
+          "category": "Science",
+          "difficulty": "Easy"
+        },
+        {
+          "question": "Which city hosted the 2016 Summer Olympics?",
+          "option1": "London",
+          "option2": "Rio de Janeiro",
+          "option3": "Beijing",
+          "option4": "Tokyo",
+          "correctOption": 2,
+          "category": "Sports",
+          "difficulty": "Medium"
+        },
+        {
+          "question": "In which year did the Titanic sink after hitting an iceberg?",
+          "option1": "1905",
+          "option2": "1912",
+          "option3": "1921",
+          "option4": "1930",
+          "correctOption": 2,
+          "category": "History",
+          "difficulty": "Medium"
+        },
+        {
+          "question": "What gas makes up about 78% of the Earth's atmosphere?",
+          "option1": "Oxygen",
+          "option2": "Carbon Dioxide",
+          "option3": "Nitrogen",
+          "option4": "Methane",
+          "correctOption": 3,
+          "category": "Science",
+          "difficulty": "Easy"
+        },
+        {
+          "question": "Which famous scientist proposed the theory of evolution by natural selection?",
+          "option1": "Charles Darwin",
+          "option2": "Louis Pasteur",
+          "option3": "Marie Curie",
+          "option4": "Gregor Mendel",
+          "correctOption": 1,
+          "category": "Science",
+          "difficulty": "Medium"
+        },
+        {
+          "question": "What is the main component of the Earth's core?",
+          "option1": "Gold",
+          "option2": "Iron",
+          "option3": "Copper",
+          "option4": "Silver",
+          "correctOption": 2,
+          "category": "Science",
+          "difficulty": "Medium"
+        },
+        {
+          "question": "Which country is known as the 'Land of the Rising Sun'?",
+          "option1": "China",
+          "option2": "India",
+          "option3": "Japan",
+          "option4": "South Korea",
+          "correctOption": 3,
+          "category": "Geography",
+          "difficulty": "Easy"
+        },
+        
+            {
+              "question": "What is the chemical symbol for the element 'Sodium'?",
+              "option1": "Na",
+              "option2": "K",
+              "option3": "Mg",
+              "option4": "Ca",
+              "correctOption": 1,
+              "category": "Science",
+              "difficulty": "Easy"
+            },
+            {
+              "question": "Who is the author of the 'Harry Potter' book series?",
+              "option1": "J.R.R. Tolkien",
+              "option2": "J.K. Rowling",
+              "option3": "George R.R. Martin",
+              "option4": "C.S. Lewis",
+              "correctOption": 2,
+              "category": "Literature",
+              "difficulty": "Easy"
+            },
+            {
+              "question": "Which sport uses the terms 'birdie' and 'eagle'?",
+              "option1": "Basketball",
+              "option2": "Tennis",
+              "option3": "Golf",
+              "option4": "Soccer",
+              "correctOption": 3,
+              "category": "Sports",
+              "difficulty": "Easy"
+            },
+            {
+              "question": "What is the world's longest river?",
+              "option1": "Nile",
+              "option2": "Amazon",
+              "option3": "Yangtze",
+              "option4": "Mississippi",
+              "correctOption": 1,
+              "category": "Geography",
+              "difficulty": "Medium"
+            },
+            {
+              "question": "Which famous scientist is known for the theory of special relativity?",
+              "option1": "Isaac Newton",
+              "option2": "Galileo Galilei",
+              "option3": "Albert Einstein",
+              "option4": "Nikola Tesla",
+              "correctOption": 3,
+              "category": "Science",
+              "difficulty": "Medium"
+            },
+            {
+              "question": "Who painted the 'Sistine Chapel Ceiling'?",
+              "option1": "Vincent van Gogh",
+              "option2": "Leonardo da Vinci",
+              "option3": "Pablo Picasso",
+              "option4": "Michelangelo",
+              "correctOption": 4,
+              "category": "Art",
+              "difficulty": "Medium"
+            },
+            {
+              "question": "Which gas do plants release during photosynthesis?",
+              "option1": "Oxygen",
+              "option2": "Carbon Dioxide",
+              "option3": "Nitrogen",
+              "option4": "Hydrogen",
+              "correctOption": 1,
+              "category": "Science",
+              "difficulty": "Easy"
+            },
+            {
+              "question": "What is the unit of electrical resistance?",
+              "option1": "Volt",
+              "option2": "Watt",
+              "option3": "Ohm",
+              "option4": "Ampere",
+              "correctOption": 3,
+              "category": "Science",
+              "difficulty": "Easy"
+            },
+            {
+              "question": "Who is credited with inventing the telephone?",
+              "option1": "Alexander Graham Bell",
+              "option2": "Thomas Edison",
+              "option3": "Nikola Tesla",
+              "option4": "Albert Einstein",
+              "correctOption": 1,
+              "category": "Science",
+              "difficulty": "Medium"
+            },
+            {
+              "question": "What is the largest continent by land area?",
+              "option1": "Africa",
+              "option2": "Europe",
+              "option3": "Asia",
+              "option4": "South America",
+              "correctOption": 3,
+              "category": "Geography",
+              "difficulty": "Medium"
+            }
+          ]
+          
+      
+      
+    
