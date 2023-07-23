@@ -21,10 +21,3 @@ The Quiz App is a mobile application built using React Native and Firebase. It a
 - A Firebase project with Firestore database set up to store quiz questions.
 - Basic knowledge of React Native and Firebase.
 
-## Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/quiz-app.git
-   cd quiz-app
